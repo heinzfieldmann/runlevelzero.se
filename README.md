@@ -1,8 +1,2 @@
 # runlevelzero.se
-Run Level Zero web stuff. Test of apache git updates
-
-Todo:
-
-Let someone do a great website. Push it here.
-
-Slask: Test to see if the crontab is updating the right local volume.
+Running Level Zero web content. Testing automatic git updates. This is just a simple test. I have a container in Kubernetes updating a volume with the help of Git (using a cron job), and then nginx serving it via an ingress.
